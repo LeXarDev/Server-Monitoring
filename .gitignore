@@ -66,3 +66,7 @@ pids
 
 # Yarn Integrity file
 .yarn-integrity
+
+# Vite
+.vite
+.vite/deps_temp*
