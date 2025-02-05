@@ -50,7 +50,7 @@ Ping Checker is a modern web application designed for real-time server monitorin
 
 1. **Clone the Repository**
    ```bash
-   git clone [repository-url]
+   git clone [https://github.com/LeXarDev/Server-Monitoring]
    cd project
    ```
 
@@ -131,14 +131,6 @@ project/
 - Password hashing
 - JWT authentication
 
-## 🤝 Contributing
-We welcome contributions! Please follow these steps:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -183,7 +175,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 1. **استنساخ المستودع**
    ```bash
-   git clone [رابط-المستودع]
+   git clone [https://github.com/LeXarDev/Server-Monitoring]
    cd project
    ```
 
@@ -264,14 +256,6 @@ project/
 - تشفير كلمات المرور
 - مصادقة JWT
 
-## 🤝 المساهمة
-نرحب بالمساهمات! يرجى اتباع هذه الخطوات:
-
-1. انسخ المستودع
-2. أنشئ فرع الميزة الخاص بك (`git checkout -b feature/ميزة-رائعة`)
-3. قم بإجراء تغييراتك (`git commit -m 'إضافة ميزة رائعة'`)
-4. ادفع إلى الفرع (`git push origin feature/ميزة-رائعة`)
-5. افتح طلب سحب
 
 ## 📄 الترخيص
 هذا المشروع مرخص بموجب رخصة MIT - راجع ملف [LICENSE](LICENSE) للحصول على التفاصيل.
