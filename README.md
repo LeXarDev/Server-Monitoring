@@ -16,7 +16,7 @@
 # 🇬🇧 English
 
 ## 📋 Project Overview
-Ping Checker is a modern web application designed for real-time server monitoring. It provides users with a robust platform to track server status, manage uptime monitoring, and receive instant notifications for any connectivity issues.
+real-time server monitoring. It provides users with a robust platform to track server status, manage uptime monitoring, and receive instant notifications for any connectivity issues.
 
 ### 🌟 Key Features
 - **Real-time Monitoring**
@@ -141,7 +141,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 # 🇸🇦 العربية
 
 ## 📋 نظرة عامة على المشروع
-فاحص البينج هو تطبيق ويب حديث مصمم لمراقبة الخوادم في الوقت الفعلي. يوفر للمستخدمين منصة قوية لتتبع حالة الخادم، وإدارة مراقبة الجاهزية، وتلقي إشعارات فورية لأي مشاكل في الاتصال.
+تطبيق ويب حديث مصمم لمراقبة الخوادم في الوقت الفعلي. يوفر للمستخدمين منصة قوية لتتبع حالة الخادم، وإدارة مراقبة الجاهزية، وتلقي إشعارات فورية لأي مشاكل في الاتصال.
 
 ### 🌟 الميزات الرئيسية
 - **المراقبة في الوقت الفعلي**
